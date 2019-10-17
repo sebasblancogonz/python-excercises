@@ -1,2 +1,2 @@
-# python-excercises
-A repo for practicing python with exercises from the website https://www.practicepython.org/
+# The Python Workbook
+A repo for practicing python with exercises from The Python Workbook
